@@ -46,7 +46,7 @@ void imprimir(int t[])
     int i;
     for(i = 0; i < TAM; i++)
     {
-        printf("%d = %d", i, t[i]);
+        printf("%d = %d\n", i, t[i]);
     }
 }
 
